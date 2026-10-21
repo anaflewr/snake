@@ -5,7 +5,7 @@ import random
 
 vm=turtle.Screen()
 vm.title("Snake Game")
-vm.bgcolor("green")
+vm.bgcolor("blue")
 vm.setup(width=600, height=600)
 vm.tracer(0)
 
